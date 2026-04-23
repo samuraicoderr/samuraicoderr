@@ -53,13 +53,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KingWilliamsGPT&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KingWilliamsGPT&layout=compact&theme=onedark" />
-</a>
+
+  ![samuraicoderr's Stats](https://github-readme-stats.vercel.app/api?username=samuraicoderr&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  <br/>
+  ![samuraicoderr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuraicoderr&theme=vue-dark&hide_border=true)
+  <br/>
+  ![samuraicoderr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuraicoderr&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
