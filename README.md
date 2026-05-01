@@ -59,6 +59,7 @@
   ![samuraicoderr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuraicoderr&theme=vue-dark&hide_border=true)
   <br/>
   ![samuraicoderr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuraicoderr&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuraicoderr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
