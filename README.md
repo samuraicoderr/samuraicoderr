@@ -105,3 +105,6 @@
 ⭐️ From [KingWilliamsGPT](https://github.com/KingWilliamsGPT)
 
 </div>
+
+---
+[![X (Twitter)](https://coolreadme.xyz/api/x-card?user=samuraicoderr&handle=samuraicoderr&content=.%0A%0AStarted%20a%20software%20agency%2C%20btw%20&style=default&theme=dark&accent=%231d9bf0&verified=true&replies=1.2k&retweets=850&likes=12.4k&views=1.5M&bookmarks=456&time=11%3A42%20AM%20%C2%B7%20Oct%2024%2C%202024&link=https%3A%2F%2Fx.com%2Fsamuraicoderr%2Fstatus%2F1962581544851091965%3Fs%3D20&media=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FGzx9DQKXQAA0_8k%3Fformat%3Djpg%26name%3Dlarge)](https://x.com/samuraicoderr/status/1962581544851091965?s=20)
