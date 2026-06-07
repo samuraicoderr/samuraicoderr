@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👑 KingWilliamsGPT
+# samuraicoderr ![](https://komarev.com/ghpvc/?username=KingWilliamsGPT&color=blueviolet&style=flat-square)
 
 ### Co-Founder @ Tinkersoft
 
@@ -98,15 +98,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 📈 Profile Views
-
-![](https://komarev.com/ghpvc/?username=KingWilliamsGPT&color=blueviolet&style=flat-square)
-
----
-
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
-⭐️ From [KingWilliamsGPT](https://github.com/KingWilliamsGPT)
 
 </div>
 
